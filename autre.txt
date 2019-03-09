@@ -1,2 +1,3 @@
 ce fichier sera diffusé via github
 à lire attentivement
+cette version est modifié depuis github le 09/03/19
